@@ -12,6 +12,9 @@
   "dependencies": {
     "canvas-sketch": "^0.7.3",
     "canvas-sketch-util": "^1.10.0",
+    "glsl-aastep": "^1.0.1",
+    "glsl-noise": "0.0.0",
+    "glslify": "^7.0.0",
     "nice-color-palettes": "^3.0.0",
     "three": "^0.117.1"
   }
